@@ -1,4 +1,4 @@
-# MzeeChakula: Graph-Enhanced Nutrition Planning for the Elderly in Uganda
+# Graph-Enhanced LLMs for Locally Sourced Elderly Nutrition Planning in Uganda
 
 An AI-powered nutrition planning system combining Graph Neural Networks to provide personalized, culturally-appropriate meal recommendations for elderly populations in Uganda.
 
