@@ -4,6 +4,15 @@ An AI-powered nutrition planning system combining Graph Neural Networks to provi
 
 **Group:** SW-AI-15 | **Institution:** Makerere University | **Supervisor:** Ggaliwango Marvin
 
+## Team
+
+### Current Members
+
+| Name | Role | Contact |
+|------|------|---------|
+| **Nannyombi Shakiran** | Project Lead, ML Engineer | [shakirannannyombi@gmail.com](mailto:shakirannannyombi@gmail.com) |
+| **Yul Lam Gatkuoth** | Data Engineer, Frontend Developer | [gatkuothyullam@gmail.com](mailto:gatkuothyullam@gmail.com) |
+
 ---
 
 ## Overview
@@ -51,15 +60,6 @@ A hybrid AI system featuring:
 - Single prediction: 0.1 ms
 - Top-10 recommendations: 3 ms
 - Batch (100 users): 0.3 seconds
-
-## Team
-
-### Current Members
-
-| Name | Role | Contact |
-|------|------|---------|
-| **Nannyombi Shakiran** | Project Lead, ML Engineer | [shakirannannyombi@gmail.com](mailto:shakirannannyombi@gmail.com) |
-| **Yul Lam Gatkuoth** | Data Engineer, Frontend Developer | [gatkuothyullam@gmail.com](mailto:gatkuothyullam@gmail.com) |
 
 ### Supervisor
 
