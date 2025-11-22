@@ -24,7 +24,7 @@ Access all components of the MzeeChakula ecosystem:
 | **Frontend UI** | User interface for elderly & caregivers | [Launch App](https://mzeechakulaaissistant.vercel.app) |
 | **Backend API** | FastAPI documentation & endpoints | [API Docs](https://mzeechakula-user-interface-backend.onrender.com/docs) |
 | **AI Model** | Ensemble Nutrition Model & Embeddings | [Hugging Face](https://huggingface.co/Shakiran/MzeeChakulaNutritionEnsembleModel) |
-| **Data & Analysis** | Datasets and exploration notebooks | [Kaggle](https://www.kaggle.com/) |
+| **Data & Analysis** | Datasets and exploration notebooks | [Kaggle](https://www.kaggle.com/datasets/shakiran/nutrition-graph-data) |
 | **Model Testing** | Performance evaluation & benchmarks | [Model Testing](https://mzeechakula.vercel.app) |
 | **Model Testing Backend** | Performance evaluation & benchmarks | [Model Testing](https://mzeechakula-backend.onrender.com) |
 | **Documentation** | Project documentation & setup | [Documentation](https://github.com/Shakiran/MzeeChakula) |
