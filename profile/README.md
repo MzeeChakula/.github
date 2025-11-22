@@ -15,6 +15,22 @@ An AI-powered nutrition planning system combining Graph Neural Networks to provi
 
 ---
 
+## Deployment & Resources
+
+Access all components of the MzeeChakula ecosystem:
+
+| Component | Description | Link |
+|-----------|-------------|------|
+| **Frontend UI** | User interface for elderly & caregivers | [Launch App](https://mzeechakulaaissistant.vercel.app) |
+| **Backend API** | FastAPI documentation & endpoints | [API Docs](https://mzeechakula-user-interface-backend.onrender.com/docs) |
+| **AI Model** | Ensemble Nutrition Model & Embeddings | [Hugging Face](https://huggingface.co/Shakiran/MzeeChakulaNutritionEnsembleModel) |
+| **Data & Analysis** | Datasets and exploration notebooks | [Kaggle](https://www.kaggle.com/) |
+| **Model Testing** | Performance evaluation & benchmarks | [Model Testing](https://mzeechakula.vercel.app) |
+| **Model Testing Backend** | Performance evaluation & benchmarks | [Model Testing](https://mzeechakula-backend.onrender.com) |
+| **Documentation** | Project documentation & setup | [Documentation](https://github.com/Shakiran/MzeeChakula) |
+
+---
+
 ## Overview
 
 **MzeeChakula** (Swahili for "Elderly Food") addresses critical nutrition challenges facing Uganda's elderly population:
@@ -132,4 +148,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Last Updated:** 2025-01-17
 **Version:** 1.0.0
-**Status:** Development
+**Status:** Production / Live
