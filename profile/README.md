@@ -27,7 +27,7 @@ Access all components of the MzeeChakula ecosystem:
 | **Data & Analysis** | Datasets and exploration notebooks | [Kaggle](https://www.kaggle.com/datasets/shakiran/nutrition-graph-data) |
 | **Model Testing** | Performance evaluation & benchmarks | [Model Testing](https://mzeechakula.vercel.app) |
 | **Model Testing Backend** | Performance evaluation & benchmarks | [Model Testing](https://mzeechakula-backend.onrender.com) |
-| **Documentation** | Project documentation & setup | [Documentation](https://github.com/Shakiran/MzeeChakula) |
+| **Documentation** | Project documentation & setup | [Documentation](https://mzeechakula.github.io/Documentation/) |
 
 ---
 
