@@ -49,6 +49,17 @@ A hybrid AI system featuring:
 3. **Ensemble Model** - Production-ready model combining top 3 GNNs (CRGN, HetGNN, GAT)
 4. **Culturally-Adapted** - English and Luganda support, local foods focus
 
+## System Architecture
+
+![MzeeChakula System Architecture](architecture_diagram.png)
+
+The system is built on three core layers:
+
+1. **Knowledge Graph Layer** - Neo4j database with 1,048 nodes and 14,359 edges representing foods, nutrients, health conditions, cultural practices, and seasonal availability
+2. **GNN Ensemble Layer** - 9 Graph Neural Network models (CRGN, HetGNN, GAT, R-GCN, Graph-RAG, KGNN, G-GPT, GRN, TCN) that reason over the knowledge graph
+3. **Application Layer** - FastAPI backend with ChromaDB vector store, Vue 3 frontend, and multi-language voice interface
+
+
 ## Technical Stack
 
 ### Core Technologies
